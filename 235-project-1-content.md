@@ -2,20 +2,35 @@
 
 It's a 3D Maze Game
 
-### Controls
-- WASD to move in the 4 cardinal directions (A & D strafe)
-- Mouse to move first person camera
+### I. Game Concept
 
-### Game Features
-- instert text
+### II. Genre
+
+### III. Platform
+
+### IV. Story
+
+### V. Aesthetic
+
+### VI. Gameplay
+
+### VII. Screenshots
+
+### VIII. Other
+
+### IX. About the Developer
+Hi there! My name is Sijal Jaradat, and I'm a second yeard Game Design and Development student at RIT! As my choice of major might suggest, I love video games! I'm a huge fan of platformers and action/adventure games. I'm hoping that through my IGME235 class I can learn to better handle Web Development with HTML and CSS, especially since most Game Dev students go into co-ops that focus on Web Development! When I graduate however, I hope to be making games for Nintendo, be it in the US or Japan.
+
+
+# HTML and CSS Information
 
 ### HTML for Index.html
-- Image of game home page
 - Brief description of the game (not all info in above description), in a main tag with p tags
-- at the top of the page, a nav-bar (ul) with links to the other pages
+- Fixed navbar on the side of the page with links to each page as well as the project GitHub
 
 ### HTML for proposal.html
-- nav-bar repeated
+
+
 - fuller overview of game (full description), also in main tag with p tags
 - Lists of different aspects of the game:
 -   A ul of genres this game could fall under
@@ -25,26 +40,27 @@ It's a 3D Maze Game
 - Images of drawings of gameplay (probably something I will do in a painting or other drawing software)
 
 ### HTML for documentation.html
-- nav bar repeated
-- Formatted like a word doc
-- Incldues all sources (if any)
-- Incldues where I met project requirements
+- Embedded Google doc with documentation for easy reading and formatting
+- All sources included
+- Areas where project requirements are met are included
 
 ### HTML for project.html
-- nav bar repeated
 - Indication that it is a place holder
 
 ### CSS formatting for all pages
+
+
 - Grid for all text and image layouts
 - For index.html, image left-center with text next to it (or image centered above text)
 - Nav-bar spread out with flexbox
 - Nav-bar items will have different colors, text-size, etc for different "anchor states"
 - for proposal.html, images in center with text below
 - for documentation.html, text in center
-- Mobile media query (@media screen and (max-width: 480px)), with 1 column grid layout for mobile
 - Lists will have a list-style-type of none
 
 ### CSS design for all pages
+
+
 - wrapper background color of forestgreen
 - maybe two columns on either side with different colors (maybe a gold-ish color?)
 - text color of black
