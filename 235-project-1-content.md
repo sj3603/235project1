@@ -15,11 +15,18 @@ It's a 3D Maze Game
 ### VI. Gameplay
 
 ### VII. Screenshots
+Well there isn't exactly a game yet so no screenshots. In the meantime, here's a cat:
+
+![Project 1 File Structure](images/catlikeaboss.jpg "Project 1 File Structure") 
 
 ### VIII. Other
 
 ### IX. About the Developer
+![Project 1 File Structure](images/selfpic.jpg "Project 1 File Structure") 
+
 Hi there! My name is Sijal Jaradat, and I'm a second yeard Game Design and Development student at RIT! As my choice of major might suggest, I love video games! I'm a huge fan of platformers and action/adventure games. I'm hoping that through my IGME235 class I can learn to better handle Web Development with HTML and CSS, especially since most Game Dev students go into co-ops that focus on Web Development! When I graduate however, I hope to be making games for Nintendo, be it in the US or Japan.
+
+
 
 
 # HTML and CSS Information
