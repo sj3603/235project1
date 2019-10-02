@@ -9,7 +9,7 @@ The A-Maze-ing game is a maze game. Pretty simple.
 Genre: Puzzle Maze
 
 ## Platform
-Platforms: Windows, MacOS, Linux, Raspberry Pi, Nintendo 64
+Platforms: Windows, MacOS, Linux, Raspberry Pi, Nintendo 64, Comodore 64, Sega Dreamcast
 
 ## Story
 The story of the A-Maze-ing game is simple. You are Johnathan McBunderSnatch. You woke up one morning and were no longer in your room, but instead in a giant maze! You must now make your way through multiple levels of mazes in hopes of escaping and getting back home!
