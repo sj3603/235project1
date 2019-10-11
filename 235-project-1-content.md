@@ -3,7 +3,7 @@
 It's a 3D Maze Game
 
 ## Game Concept
-The A-Maze-ing game is a maze game. Pretty simple.
+The A-Maze-ing game is a puzzle-centric maze game where players will traverse numerous maze levels with a focus on puzzle solving to open up paths
 
 ## Genre
 Genre: Puzzle Maze
@@ -15,23 +15,20 @@ Platforms: Windows, MacOS, Linux, Raspberry Pi, Nintendo 64, Comodore 64, Sega D
 The story of the A-Maze-ing game is simple. You are Johnathan McBunderSnatch. You woke up one morning and were no longer in your room, but instead in a giant maze! You must now make your way through multiple levels of mazes in hopes of escaping and getting back home!
 
 ## Aesthetic
-This game will look like a game
+The game will have a retro 90s first person PC game aesthetic, in the same vein as games such as Wolfenstein 3D and Doom (1993).
 
 ## Gameplay
 ### Mechanics
-- 5 whole A-Maze-ingly mind boggling levels!
-- A timer in each level to make sure you're not playing for too long when you have homework!
-- Super duper mega overclock turbo graphics boosting with included ram booster!
-- Support for up to 5 simultaneous oculus riftesses! Riftesses? Rifti? Rifters? Who knows...
+The game consists of maze levels in which the player must find their way to a marked exit. Along the way they may find traps, puzzles, and enemies that wish to hunt them down and stop them
 
 ### Controls
 Use WASD to move! (A & D are for strafing) and use any standard computer mouse or laptop nipple to move the first person camera!
 
 ### New User Experience
-It'll have a cool title screen that will make you want to play!
+Players will be slowly introduced to new puzzle mechanics as they progress throughout the levels, later on said mechanics may be combined to create more complex puzzles
 
 ### Player Learning
-Text boxes with instructions anyone?
+Players must learn to solve simple puzzles to open up new paths as well as how to properly traverse and map out routes through a maze. This is so players can properly avoid or even lure enemies away from certain paths, allowing them to circle back and progress further
 
 ## Screenshots
 Well there isn't exactly a game yet so no screenshots. In the meantime, here's a cat:
