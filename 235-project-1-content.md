@@ -46,7 +46,7 @@ Hi there! My name is Sijal Jaradat, and I'm a second yeard Game Design and Devel
 # HTML and CSS Information
 
 ## HTML for Index.html
-- Brief description of the game (not all info in above description), in a main tag with p tags
+- Image of game's title screen
 - Fixed navbar on the side of the page with links to each page as well as the project GitHub
 
 ## HTML for proposal.html
@@ -55,6 +55,7 @@ Hi there! My name is Sijal Jaradat, and I'm a second yeard Game Design and Devel
 - Platforms listed
 - Game Mechanics & Controls listed
 - Gameplay screenshots currently not available, cat like a boss used instead
+- Headings listed with h2's, subheadings listed using h1's, and descriptions listed with p
 
 ## HTML for documentation.html
 - Embedded Google doc with documentation for easy reading and formatting
@@ -65,8 +66,8 @@ Hi there! My name is Sijal Jaradat, and I'm a second yeard Game Design and Devel
 - Sample text since there is nothing for now
 
 ## CSS formatting for all pages
-
+- 
 
 ## CSS design for all pages
-
+- Site uses a consistent orange/white/black color pallete across all pages
 
